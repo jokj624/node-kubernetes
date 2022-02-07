@@ -64,7 +64,7 @@ lima
 
 ```
 limactl stop default # 인스턴스 중지
-limactl remove defulat # 인스턴스 삭제
+limactl remove default # 인스턴스 삭제
 ```
 
 ![img](https://blog.kakaocdn.net/dn/l9CXG/btrr9zCQBHb/ydWUiwdxj30Xowzq7ZZGsK/img.png)
